@@ -1,6 +1,6 @@
 const settings = {
   packname: 'Kali Bot',
-  author: '‎',
+  author: '‎𝐊𝐚𝐥𝐢-𝐨𝐒.𝐟𝐨𝐮𝐧𝐝404',
   botName: "Kali Bot",
   botOwner: 'Kali-oS', // Your name
   ownerNumber: 255619615065', //Set your number here without + symbol, just add country code & number without any space
